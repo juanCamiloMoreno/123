@@ -1,0 +1,1 @@
+https://github.com/juanCamiloMoreno/tesis-lora-gps-/blob/main/Taller_Limpieza_Titanic.ipynb
